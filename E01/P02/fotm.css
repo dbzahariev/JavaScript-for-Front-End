@@ -9,3 +9,11 @@ input {
 input::after {
 	content: "&#xF007;"
 }
+
+button.btn-one {
+	background-color: blue;
+}
+
+button.btn-two {
+	background-color: red;
+}
