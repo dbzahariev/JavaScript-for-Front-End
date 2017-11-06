@@ -1,0 +1,17 @@
+$main-color: red;
+$value-one: 10px;
+$value-two: 15px;
+
+body {
+  //background: $main-color;
+  color: $main-color;
+}
+
+@mixin sum_of_two-numbers($value-one, $value-two) {
+  $value-one: $value-two;
+}
+
+div.test {
+  @include sum_of_two-numbers($value-one, $value-two);
+  border-radius: $value-one solid $main-color;
+}
