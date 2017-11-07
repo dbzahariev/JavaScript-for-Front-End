@@ -20,8 +20,8 @@
       <file leaf-file-name="P01.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/E01 - INTRODUCTION TO BOOTSTRAP/P01/P01.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-49">
-              <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+            <state relative-caret-position="155">
+              <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -185,7 +185,7 @@
       <workItem from="1510054238880" duration="731000" />
       <workItem from="1510055017041" duration="687000" />
       <workItem from="1510073898259" duration="89000" />
-      <workItem from="1510074007574" duration="159000" />
+      <workItem from="1510074007574" duration="218000" />
     </task>
     <task id="LOCAL-00001" summary="Add new file">
       <created>1509640124220</created>
@@ -250,11 +250,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510055094263</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Upgrade">
+      <created>1510074173562</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1510074173562</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13443000" />
+    <option name="totallyTimeSpent" value="13502000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -339,8 +346,8 @@
     <entry file="file://$PROJECT_DIR$/Е02 - CSS PREPROCESSORS/P01/P01.scss" />
     <entry file="file://$PROJECT_DIR$/E01 - INTRODUCTION TO BOOTSTRAP/P01/P01.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-49">
-          <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        <state relative-caret-position="155">
+          <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
           <folding />
         </state>
       </provider>
