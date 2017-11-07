@@ -2,21 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61de64f5-3997-40da-ad46-aee9c425ed64" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/E01/01. JavaScript-for-Front-End-Introduction-to-Bootstrap-Exercises.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/E01/P01/P01.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/E01/P02/form.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/E01/P02/fotm.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/L01/01. JavaScript-for-Front-End-Introduction-to-Bootstrap-Lab.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/L01/01. JavaScript-for-Front-End-Introduction-to-Bootstrap.pptx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/L01/P01/P01.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/L01/P01/P01.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/L01/P02/nav-bar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/L01/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/L02/2._CSS-Preprocessors-SASS-and-LESS.pptx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/L02/Inn.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/L02/Inn.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/L02/Inn.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/L02/index.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -30,7 +15,38 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="02-Gradient-City.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Е02 - CSS PREPROCESSORS (SASS, LESS)/02-Gradient-City.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="31" column="18" lean-forward="false" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P01.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Е02 - CSS PREPROCESSORS (SASS, LESS)/P01/P01.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P01.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Е02 - CSS PREPROCESSORS (SASS, LESS)/P01/P01.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -51,6 +67,8 @@
         <option value="$PROJECT_DIR$/L02/Inn.css" />
         <option value="$PROJECT_DIR$/L02/index.html" />
         <option value="$PROJECT_DIR$/L02/Inn.scss" />
+        <option value="$PROJECT_DIR$/Е02 - CSS PREPROCESSORS (SASS, LESS)/P01/P01.html" />
+        <option value="$PROJECT_DIR$/Е02 - CSS PREPROCESSORS (SASS, LESS)/P01/P01.scss" />
       </list>
     </option>
   </component>
@@ -114,6 +132,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -121,12 +141,21 @@
               <item name="JavaScript-for-Front-End" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaScript-for-Front-End" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JavaScript-for-Front-End" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript-for-Front-End" type="462c0819:PsiDirectoryNode" />
+              <item name="Е02 - CSS PREPROCESSORS (SASS, LESS)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript-for-Front-End" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript-for-Front-End" type="462c0819:PsiDirectoryNode" />
+              <item name="Е02 - CSS PREPROCESSORS (SASS, LESS)" type="462c0819:PsiDirectoryNode" />
+              <item name="P01" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -170,7 +199,8 @@
       <workItem from="1509641234152" duration="563000" />
       <workItem from="1509650283824" duration="104000" />
       <workItem from="1509711195032" duration="5410000" />
-      <workItem from="1509983238312" duration="615000" />
+      <workItem from="1509983238312" duration="4584000" />
+      <workItem from="1510054238880" duration="438000" />
     </task>
     <task id="LOCAL-00001" summary="Add new file">
       <created>1509640124220</created>
@@ -200,24 +230,41 @@
       <option name="project" value="LOCAL" />
       <updated>1509713832735</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Upgrade">
+      <created>1509983925826</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1509983925826</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7808000" />
+    <option name="totallyTimeSpent" value="12215000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1845238" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1845238" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.49702382" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.50595236" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.49702382" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.4940476" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.4940476" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -234,102 +281,87 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="Add new file" />
     <MESSAGE value="Upgrade" />
     <option name="LAST_COMMIT_MESSAGE" value="Upgrade" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/L02/Inn.scss">
+    <entry file="file://$PROJECT_DIR$/Е02 - CSS PREPROCESSORS (SASS, LESS)/02-Gradient-City.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="527">
+          <caret line="31" column="18" lean-forward="false" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/L02/index.html">
+    <entry file="file://$PROJECT_DIR$/Е02 - CSS PREPROCESSORS (SASS, LESS)/P01/P01.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        <state relative-caret-position="204">
+          <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/E01/P01/P01.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/E01/P02/form.html">
+    <entry file="file://$PROJECT_DIR$/Е02 - CSS PREPROCESSORS (SASS, LESS)/P01/P01.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/E01/P01/P01.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/E01/P02/form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="37" lean-forward="false" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/E01/P02/fotm.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/E01/P01/P01.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="65" lean-forward="false" selection-start-line="13" selection-start-column="65" selection-end-line="13" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/L02/Inn.css.map">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider editor-type-id="sourcemapFileViewerProvider">
+    <entry file="file://$PROJECT_DIR$/L02/Inn.scss" />
+    <entry file="file://$PROJECT_DIR$/L02/index.html" />
+    <entry file="file://$PROJECT_DIR$/E01/P01/P01.html" />
+    <entry file="file://$PROJECT_DIR$/E01/P02/form.html" />
+    <entry file="file://$PROJECT_DIR$/E01/P01/P01.html" />
+    <entry file="file://$PROJECT_DIR$/E01/P02/form.html" />
+    <entry file="file://$PROJECT_DIR$/E01/P02/fotm.css" />
+    <entry file="file://$PROJECT_DIR$/E01/P01/P01.html" />
+    <entry file="file://$PROJECT_DIR$/L02/Inn.css.map" />
+    <entry file="file://$PROJECT_DIR$/L02/Inn.css" />
+    <entry file="file://$PROJECT_DIR$/L02/index.html" />
+    <entry file="file://$PROJECT_DIR$/L02/Inn.scss" />
+    <entry file="file://$PROJECT_DIR$/Е02 - CSS PREPROCESSORS (SASS, LESS)/03-CrazyShakyGallery.gif">
+      <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/L02/Inn.css">
+    <entry file="file://$PROJECT_DIR$/Е02 - CSS PREPROCESSORS (SASS, LESS)/P01/P01.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/L02/index.html">
+    <entry file="file://$PROJECT_DIR$/Е02 - CSS PREPROCESSORS (SASS, LESS)/P01/P01.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        <state relative-caret-position="204">
+          <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/L02/Inn.scss">
+    <entry file="file://$PROJECT_DIR$/Е02 - CSS PREPROCESSORS (SASS, LESS)/02-Gradient-City.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        <state relative-caret-position="527">
+          <caret line="31" column="18" lean-forward="false" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Е02 - CSS PREPROCESSORS (SASS, LESS)/P01/P01.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
           <folding />
         </state>
       </provider>
