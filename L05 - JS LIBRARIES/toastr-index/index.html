@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Title</title>
+	<link href="CodeSeven-toastr-998959b/toastr.css" rel="stylesheet"/>
+	<script src="CodeSeven-toastr-998959b/toastr.js"></script>
+	<link href="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js" rel="stylesheet"/>
+</head>
+<body>
+
+<script>
+    $(function () {
+        $('#error').click(function () {
+            // make it not dissappear
+            toastr.error("Noooo oo oo ooooo!!!", "Title", {
+                "timeOut": "10",
+                "extendedTImeout": "10"
+            });
+        });
+        $('#info').click(function () {
+            // title is optional
+            toastr.info("Info Message", "Title");
+        });
+        $('#warning').click(function () {
+            toastr.warning("Warning");
+        });
+        $('#success').click(function () {
+            toastr.success("YYEESSSSSSS");
+        });
+    });
+</script>
+
+
+<input type="button" value="Error" id="error" />
+<input type="button" value="Info" id="info" />
+<input type="button" value="Warning" id="warning" />
+<input type="button" value="Success" id="success" />
+<br><br><br><br>
+See official example: <a href='http://codeseven.github.io/toastr/demo.html' target='blank'>Here</a>
+
+</body>
+</html>
