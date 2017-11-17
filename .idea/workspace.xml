@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61de64f5-3997-40da-ad46-aee9c425ed64" name="Default" comment="">
+    <list default="true" id="61de64f5-3997-40da-ad46-aee9c425ed64" name="Default" comment="Upgrade">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/E01 - INTRODUCTION TO BOOTSTRAP/P03/blog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/E01 - INTRODUCTION TO BOOTSTRAP/P03/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/L04 - Introduction to JQuery DOM/Test/extractText.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/L04 - Introduction to JQuery DOM/Test/text.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/L05 - JS LIBRARIES/slick-index/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/L05 - JS LIBRARIES/toastr-index/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/JavaScript-for-Front-End.iml" afterPath="$PROJECT_DIR$/.idea/JavaScript-for-Front-End.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/E01 - INTRODUCTION TO BOOTSTRAP/P01/P01.html" afterPath="$PROJECT_DIR$/E01 - INTRODUCTION TO BOOTSTRAP/P01/P01.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/E01 - INTRODUCTION TO BOOTSTRAP/P02/form.html" afterPath="$PROJECT_DIR$/E01 - INTRODUCTION TO BOOTSTRAP/P02/form.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,11 +26,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="P01.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/E01 - INTRODUCTION TO BOOTSTRAP/P01/P01.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/L05 - JS LIBRARIES/sticky-notes/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+            <state relative-caret-position="68">
+              <caret line="4" column="28" lean-forward="false" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/L05 - JS LIBRARIES/slick-index/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="628">
+              <caret line="70" column="7" lean-forward="true" selection-start-line="70" selection-start-column="7" selection-end-line="70" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="license.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/L05 - JS LIBRARIES/sticky-notes/license.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -32,9 +61,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>justify-content-end</find>
+      <find>index.js</find>
+      <find>Enter note</find>
+      <find>style.css</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -51,6 +89,14 @@
         <option value="$PROJECT_DIR$/Е02 - CSS PREPROCESSORS (SASS, LESS)/P01/P01.html" />
         <option value="$PROJECT_DIR$/Е02 - CSS PREPROCESSORS (SASS, LESS)/P01/P01.scss" />
         <option value="$PROJECT_DIR$/E01 - INTRODUCTION TO BOOTSTRAP/P01/P01.html" />
+        <option value="$PROJECT_DIR$/E01 - INTRODUCTION TO BOOTSTRAP/P02/form.html" />
+        <option value="$PROJECT_DIR$/E01 - INTRODUCTION TO BOOTSTRAP/P03/style.css" />
+        <option value="$PROJECT_DIR$/E01 - INTRODUCTION TO BOOTSTRAP/P03/blog.html" />
+        <option value="$PROJECT_DIR$/L04 - Introduction to JQuery DOM/Test/index.html" />
+        <option value="$PROJECT_DIR$/L04 - Introduction to JQuery DOM/Test/extractText.js" />
+        <option value="$PROJECT_DIR$/L05 - JS LIBRARIES/Test/index.html" />
+        <option value="$PROJECT_DIR$/L05 - JS LIBRARIES/sticky-notes/index.html" />
+        <option value="$PROJECT_DIR$/L05 - JS LIBRARIES/slick-index/index.html" />
       </list>
     </option>
   </component>
@@ -82,6 +128,9 @@
             <id>File Watchers</id>
           </State>
           <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
             <id>JavaScript</id>
           </State>
           <State>
@@ -90,7 +139,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>TaskProblemsInspection</id>
+            <id>JSUnresolvedFunction</id>
           </State>
         </selected-state>
       </profile-state>
@@ -125,13 +174,20 @@
             <path>
               <item name="JavaScript-for-Front-End" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaScript-for-Front-End" type="462c0819:PsiDirectoryNode" />
-              <item name="E01 - INTRODUCTION TO BOOTSTRAP" type="462c0819:PsiDirectoryNode" />
+              <item name="L05 - JS LIBRARIES" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaScript-for-Front-End" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaScript-for-Front-End" type="462c0819:PsiDirectoryNode" />
-              <item name="E01 - INTRODUCTION TO BOOTSTRAP" type="462c0819:PsiDirectoryNode" />
-              <item name="P01" type="462c0819:PsiDirectoryNode" />
+              <item name="L05 - JS LIBRARIES" type="462c0819:PsiDirectoryNode" />
+              <item name="slick-index" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript-for-Front-End" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript-for-Front-End" type="462c0819:PsiDirectoryNode" />
+              <item name="L05 - JS LIBRARIES" type="462c0819:PsiDirectoryNode" />
+              <item name="slick-index" type="462c0819:PsiDirectoryNode" />
+              <item name="slick" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -146,9 +202,11 @@
     <property name="last_opened_file_path" value="C:/Ruby24-x64/bin/scss.bat" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ramsess\Documents\GitHub\JavaScript-for-Front-End\L05 - JS LIBRARIES\Test" />
       <recent name="C:\Users\Ramsess\Documents\GitHub\JavaScript-for-Front-End\L02" />
     </key>
   </component>
@@ -185,7 +243,9 @@
       <workItem from="1510054238880" duration="731000" />
       <workItem from="1510055017041" duration="687000" />
       <workItem from="1510073898259" duration="89000" />
-      <workItem from="1510074007574" duration="218000" />
+      <workItem from="1510074007574" duration="4247000" />
+      <workItem from="1510316147180" duration="2940000" />
+      <workItem from="1510661544297" duration="5728000" />
     </task>
     <task id="LOCAL-00001" summary="Add new file">
       <created>1509640124220</created>
@@ -257,11 +317,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510074173562</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Upgrade">
+      <created>1510074230121</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1510074230121</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13502000" />
+    <option name="totallyTimeSpent" value="26199000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -278,7 +345,8 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1845238" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.49702382" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.50595236" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.50595236" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.49702382" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.4940476" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -290,7 +358,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -314,11 +381,32 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/E01 - INTRODUCTION TO BOOTSTRAP/P01/P01.html">
+    <entry file="file://$PROJECT_DIR$/L04 - Introduction to JQuery DOM/Test/text.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/E01 - INTRODUCTION TO BOOTSTRAP/P03/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/E01 - INTRODUCTION TO BOOTSTRAP/P03/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="17" lean-forward="false" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/E01 - INTRODUCTION TO BOOTSTRAP/P01/P01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -347,7 +435,177 @@
     <entry file="file://$PROJECT_DIR$/E01 - INTRODUCTION TO BOOTSTRAP/P01/P01.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="155">
-          <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+          <caret line="24" column="80" lean-forward="false" selection-start-line="24" selection-start-column="80" selection-end-line="24" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/aria.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="397" column="18" lean-forward="false" selection-start-line="397" selection-start-column="18" selection-end-line="397" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/E01 - INTRODUCTION TO BOOTSTRAP/P02/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L04 - Introduction to JQuery DOM/Test/extract-text.js" />
+    <entry file="file://$PROJECT_DIR$/L04 - Introduction to JQuery DOM/Test/extractText.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/E01 - INTRODUCTION TO BOOTSTRAP/P03/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="17" lean-forward="false" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/E01 - INTRODUCTION TO BOOTSTRAP/P03/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L05 - JS LIBRARIES/Test/toastr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1377">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L05 - JS LIBRARIES/Test/toastr.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2840">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L05 - JS LIBRARIES/Test/toastr.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-187">
+          <caret line="31" column="4" lean-forward="false" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L05 - JS LIBRARIES/toastr-index/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="17" column="6" lean-forward="true" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L04 - Introduction to JQuery DOM/Test/text.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="7" lean-forward="false" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L05 - JS LIBRARIES/Test/CodeSeven-toastr-998959b/tests/qunit/qunit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="493" column="36" lean-forward="true" selection-start-line="493" selection-start-column="36" selection-end-line="493" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_jquery_2.1.3_jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L05 - JS LIBRARIES/sticky-notes/scss/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="201" column="32" lean-forward="false" selection-start-line="201" selection-start-column="32" selection-end-line="201" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L05 - JS LIBRARIES/sticky-notes/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="213" column="20" lean-forward="false" selection-start-line="213" selection-start-column="20" selection-end-line="213" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L05 - JS LIBRARIES/sticky-notes/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="60" column="11" lean-forward="true" selection-start-line="60" selection-start-column="11" selection-end-line="60" selection-end-column="11" />
+          <folding>
+            <marker date="1510656706000" expanded="true" signature="1566:1572" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L05 - JS LIBRARIES/sticky-notes/scss/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L05 - JS LIBRARIES/sticky-notes/license.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L05 - JS LIBRARIES/sticky-notes/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="28" lean-forward="false" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__code.jquery.com_jquery-1.11.0.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-561">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L05 - JS LIBRARIES/slick-index/slick/slick.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/L05 - JS LIBRARIES/slick-index/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="628">
+          <caret line="70" column="7" lean-forward="true" selection-start-line="70" selection-start-column="7" selection-end-line="70" selection-end-column="7" />
           <folding />
         </state>
       </provider>

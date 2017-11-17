@@ -5,23 +5,43 @@
 	<title>Title</title>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css">
 	<link rel="stylesheet" href="fotm.css">
-	<!--	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css">-->
 </head>
-
 <body>
-<div class="btn-group" role="group" aria-label="Basic example">
-	<button type="button" class="btn btn-secondary btn-one"><i class="fa fa-plus" aria-hidden="true"></i> New User
-	</button>
-	<button type="button" class="btn btn-secondary btn-two"><i class="fa fa-user" aria-hidden="true"></i> I have account
-	</button>
+<div class="container-fluid">
+	<div class="row justify-content-center">
+		<div class="col-md-4 text-center">
+			<div class="btn-group mt-5" role="button" aria-label="Basic example">
+				<button type="button" class="btn btn-primary">
+					<i class="fa fa-plus" aria-hidden="true"></i> New User
+				</button>
+				<button type="button" class="btn btn-danger">
+					<i class="fa fa-user" aria-hidden="true"></i> I have account
+				</button>
+			</div>
+			<p>Click to select</p>
+			<form>
+				<div class="input-group mb-2">
+					<input type="email" class="form-control border-right-0" placeholder="Email Address">
+					<div class="input-group-addon bg-white border-left-0">
+						<i class="fa fa-envelope" aria-hidden="true"></i>
+					</div>
+				</div>
+				<div class="input-group mb-2">
+					<input type="password" class="form-control border-right-0" placeholder="Password">
+					<div class="input-group-addon bg-white border-left-0">
+						<i class="fa fa-key" aria-hidden="true"></i>
+					</div>
+				</div>
+				<div class="input-group mb-2">
+					<input type="password" class="form-control border-right-0" placeholder="Conform password">
+					<div class="input-group-addon bg-white border-left-0">
+						<i class="fa fa-key" aria-hidden="true"></i>
+					</div>
+				</div>
+			</form>
+		
+		</div>
+	</div>
 </div>
-<div class="container">
-	<p>Click to select</p>
-	<input class="form-control form-control-sm" type="text" placeholder="Email Adress &#xF007;"> <input
-		class="form-control form-control-sm" type="text" placeholder="Password"> <input
-		class="form-control form-control-sm" type="text" placeholder="Confirm Password">
-	<form action=""></form>
-</div>
-
 </body>
 </html>
