@@ -28,22 +28,24 @@
     function getInfo() {
         let bus = $('#bus').val();
 
-        $.ajax('https://judgetests.firebaseio.com/businfo/' + bus + '.json', {
+        $.ajax('https://judgetests.firebaseio.com/businfo/1.json', {
             method: 'GET',
-
+            beforeSend: function () {
+                $('ul').empty();
+            },
             success: function (response) {
                 console.log('success');
                 for (let busNumber in response.buses) {
                     let time = response.buses[busNumber];
-                    let li = $['<li>'].text('Bus with ID ' + bussNumber + ' arrives in ' + time);
+                    let li = $['<li>'].text('Bus with ID ' + busNumber + ' arrives in ' + time);
                     $('ul').append(li);
                 }
             },
             error: function () {
-                $('ul').empty();
                 $('#response').text('Error');
             }
-        }
+        })
+    }
 </script>
 </body>
 </html>
