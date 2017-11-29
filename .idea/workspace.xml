@@ -2,11 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61de64f5-3997-40da-ad46-aee9c425ed64" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EP/P03/form.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EP/P03/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EP/P03/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EP/P03/show-style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/EP02/07. JavaScript-for-Front-End-Exam-Preparation-II-Resources/render-data.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/EP02/07. JavaScript-for-Front-End-Exam-Preparation-II-Resources/script.js" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/EP/07. JavaScript-for-Front-End-Exam-Preparation-I-Resources.zip" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/EP/07. JavaScript-for-Front-End-Exam-Preparation-I-Resources/form.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/EP/07. JavaScript-for-Front-End-Exam-Preparation-I-Resources/full-application.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/EP/07. JavaScript-for-Front-End-Exam-Preparation-I-Resources/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/EP/07. JavaScript-for-Front-End-Exam-Preparation-I.docx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/EP/P01/script.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/EP/P02/render-data.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/EP/P02/reset.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/EP/P02/script.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/EP/P02/show-style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/EP/P03/form.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/EP/P03/reset.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/EP/P03/script.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/EP/P03/show-style.css" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,20 +36,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/EP/P03/script.js">
+        <entry file="file://$PROJECT_DIR$/EP02/07. JavaScript-for-Front-End-Exam-Preparation-II-Resources/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="50" lean-forward="false" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
-              <folding />
+            <state relative-caret-position="96">
+              <caret line="106" column="0" lean-forward="true" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+                <element signature="n#!!block;n#renderAllContinents#0" expanded="false" />
+                <element signature="n#!!block;n#renderSingleContinent#0" expanded="false" />
+                <element signature="n#!!block;n#renderSingleCountry#0" expanded="false" />
+                <element signature="e#1223#1241#0" expanded="false" />
+                <element signature="e#1320#1604#0" expanded="false" />
+                <element signature="n#!!block;n#renderSingleCountyInHtml#0" expanded="false" />
+                <element signature="n#!!block;n#renderSingleContinentInHtml#0" expanded="false" />
+                <element signature="e#3353#3548#0" expanded="false" />
+                <element signature="n#!!block;n#renderDataInHTML#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="form.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EP/P03/form.html">
+      <file leaf-file-name="render-data.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EP02/07. JavaScript-for-Front-End-Exam-Preparation-II-Resources/render-data.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="17" lean-forward="false" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+            <state relative-caret-position="144">
+              <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -59,6 +85,10 @@
       <find>style.css</find>
       <find>get</find>
       <find>pokemondiv</find>
+      <find>countriesDiv</find>
+      <find>continent-data</find>
+      <find>countries</find>
+      <find>renderSingleContinent</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -91,6 +121,9 @@
         <option value="$PROJECT_DIR$/EP/E03/script.js" />
         <option value="$PROJECT_DIR$/EP/P03/form.html" />
         <option value="$PROJECT_DIR$/EP/P03/script.js" />
+        <option value="$PROJECT_DIR$/EP02/P01/script.js" />
+        <option value="$PROJECT_DIR$/EP02/P01/render-data.html" />
+        <option value="$PROJECT_DIR$/EP02/07. JavaScript-for-Front-End-Exam-Preparation-II-Resources/script.js" />
       </list>
     </option>
   </component>
@@ -158,7 +191,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -169,12 +201,19 @@
             <path>
               <item name="JavaScript-for-Front-End" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaScript-for-Front-End" type="462c0819:PsiDirectoryNode" />
-              <item name="EP" type="462c0819:PsiDirectoryNode" />
+              <item name="EP02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript-for-Front-End" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript-for-Front-End" type="462c0819:PsiDirectoryNode" />
+              <item name="EP02" type="462c0819:PsiDirectoryNode" />
+              <item name="07. JavaScript-for-Front-End-Exam-Preparation-II-Resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -187,13 +226,15 @@
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Ramsess\WebstormProjects\JavaScript-for-Front-End\EP\P03" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ramsess\WebstormProjects\JavaScript-for-Front-End\EP02\07. JavaScript-for-Front-End-Exam-Preparation-II-Resources" />
+      <recent name="C:\Users\Ramsess\WebstormProjects\JavaScript-for-Front-End\EP02" />
       <recent name="C:\Users\Ramsess\WebstormProjects\JavaScript-for-Front-End\EP\P02" />
       <recent name="C:\Users\Ramsess\Documents\GitHub\JavaScript-for-Front-End\L05 - JS LIBRARIES\Test" />
       <recent name="C:\Users\Ramsess\Documents\GitHub\JavaScript-for-Front-End\L02" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ramsess\WebstormProjects\JavaScript-for-Front-End\EP\P03" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -208,11 +249,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.script.js">
-    <configuration name="script.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="script.js" working-dir="$PROJECT_DIR$/EP/P01" />
+  <component name="RunManager">
+    <configuration name="render-data.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript-for-Front-End/EP02/07. JavaScript-for-Front-End-Exam-Preparation-II-Resources/render-data.html" />
     <recent_temporary>
       <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.script.js" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.render-data.html" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +287,9 @@
       <workItem from="1511595456825" duration="1672000" />
       <workItem from="1511598719702" duration="6323000" />
       <workItem from="1511684251924" duration="2431000" />
-      <workItem from="1511770051825" duration="597000" />
+      <workItem from="1511770051825" duration="1222000" />
+      <workItem from="1511940914049" duration="40000" />
+      <workItem from="1511941366899" duration="12612000" />
     </task>
     <task id="LOCAL-00001" summary="Add new file">
       <created>1509640124220</created>
@@ -346,11 +389,18 @@
       <option name="project" value="LOCAL" />
       <updated>1511610266694</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Upgrade">
+      <created>1511777240281</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1511777240281</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40572000" />
+    <option name="totallyTimeSpent" value="53849000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -365,11 +415,13 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19912152" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15446559" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.49702382" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280757" sideWeight="0.50595236" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.49702382" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280757" sideWeight="0.4940476" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32755905" sideWeight="0.4940476" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.4940476" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -379,7 +431,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -399,13 +450,20 @@
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/EP02/07. JavaScript-for-Front-End-Exam-Preparation-II-Resources/script.js</url>
+          <line>39</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="5" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Е02 - CSS PREPROCESSORS (SASS, LESS)/P01/P01.scss" />
-    <entry file="file://$PROJECT_DIR$/L02/Inn.scss" />
-    <entry file="file://$PROJECT_DIR$/L02/index.html" />
     <entry file="file://$PROJECT_DIR$/E01/P01/P01.html" />
     <entry file="file://$PROJECT_DIR$/E01/P02/form.html" />
     <entry file="file://$PROJECT_DIR$/E01/P01/P01.html" />
@@ -541,13 +599,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EP/P01/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="18" column="14" lean-forward="false" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/EP/P01/script.js" />
     <entry file="file://$PROJECT_DIR$/E06 - AJAX/P01/buses.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="56">
@@ -555,52 +607,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EP/07. JavaScript-for-Front-End-Exam-Preparation-I-Resources/form.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EP/P02/render-data.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EP/P02/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="64" column="89" lean-forward="false" selection-start-line="64" selection-start-column="89" selection-end-line="64" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EP/P03/reset.css">
+    <entry file="file://$PROJECT_DIR$/EP/07. JavaScript-for-Front-End-Exam-Preparation-I-Resources/form.gif" />
+    <entry file="file://$PROJECT_DIR$/EP/P02/render-data.html" />
+    <entry file="file://$PROJECT_DIR$/EP/P02/script.js" />
+    <entry file="file://$PROJECT_DIR$/EP/P03/reset.css" />
+    <entry file="file://$PROJECT_DIR$/EP/P03/show-style.css" />
+    <entry file="file://$PROJECT_DIR$/EP/P03/form.html" />
+    <entry file="file://$PROJECT_DIR$/EP/P03/script.js" />
+    <entry file="file://$PROJECT_DIR$/EP02/07. JavaScript-for-Front-End-Exam-Preparation-II-Resources/reset.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EP/P03/show-style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EP/P03/form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="17" lean-forward="false" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EP/P03/script.js">
+    <entry file="file://$PROJECT_DIR$/EP02/07. JavaScript-for-Front-End-Exam-Preparation-II-Resources/render-data.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="50" lean-forward="false" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+        <state relative-caret-position="144">
+          <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="23" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EP02/07. JavaScript-for-Front-End-Exam-Preparation-II-Resources/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="106" column="0" lean-forward="true" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="n#!!block;n#renderAllContinents#0" expanded="false" />
+            <element signature="n#!!block;n#renderSingleContinent#0" expanded="false" />
+            <element signature="n#!!block;n#renderSingleCountry#0" expanded="false" />
+            <element signature="e#1223#1241#0" expanded="false" />
+            <element signature="e#1320#1604#0" expanded="false" />
+            <element signature="n#!!block;n#renderSingleCountyInHtml#0" expanded="false" />
+            <element signature="n#!!block;n#renderSingleContinentInHtml#0" expanded="false" />
+            <element signature="e#3353#3548#0" expanded="false" />
+            <element signature="n#!!block;n#renderDataInHTML#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
