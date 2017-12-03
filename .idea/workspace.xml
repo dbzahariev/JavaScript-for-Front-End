@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61de64f5-3997-40da-ad46-aee9c425ed64" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/EP02/07. JavaScript-for-Front-End-Exam-Preparation-II-Resources/events.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/EP02/07. JavaScript-for-Front-End-Exam-Preparation-II-Resources/index.html" />
+    <list default="true" id="61de64f5-3997-40da-ad46-aee9c425ed64" name="Default" comment="Upgrade">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/EP02/.~lock.07. JavaScript-for-Front-End-Exam-Preparation-II.docx#" afterPath="" />
       <change beforePath="$PROJECT_DIR$/EP02/07. JavaScript-for-Front-End-Exam-Preparation-II-Resources/script.js" afterPath="$PROJECT_DIR$/EP02/07. JavaScript-for-Front-End-Exam-Preparation-II-Resources/script.js" />
-      <change beforePath="$PROJECT_DIR$/EP02/07. JavaScript-for-Front-End-Exam-Preparation-II.docx" afterPath="$PROJECT_DIR$/EP02/07. JavaScript-for-Front-End-Exam-Preparation-II.docx" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,13 +20,30 @@
       <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/EP02/07. JavaScript-for-Front-End-Exam-Preparation-II-Resources/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="79" column="30" lean-forward="false" selection-start-line="79" selection-start-column="30" selection-end-line="79" selection-end-column="30" />
+            <state relative-caret-position="187">
+              <caret line="276" column="26" lean-forward="false" selection-start-line="276" selection-start-column="26" selection-end-line="276" selection-end-column="26" />
               <folding>
                 <element signature="n#!!doc" expanded="false" />
                 <element signature="n#!!block;n#renderAllContinents#0" expanded="false" />
                 <element signature="n#!!block;n#renderSingleContinent#0" expanded="false" />
                 <element signature="n#!!block;n#renderSingleCountry#0" expanded="false" />
+                <element signature="e#1224#1242#0" expanded="false" />
+                <element signature="n#!!block;n#renderContinentsInHtml#0" expanded="false" />
+                <element signature="n#!!block;n#renderSingleCountyInHtml#0" expanded="false" />
+                <element signature="n#!!block;n#renderSingleContinentInHtml#0" expanded="false" />
+                <element signature="n#!!block;n#renderDataInHTML#0" expanded="false" />
+                <element signature="e#4025#4043#0" expanded="false" />
+                <element signature="e#4061#5628#0" expanded="false" />
+                <element signature="n#!!block;n#renderContinentsInHtmlProblem3#0" expanded="false" />
+                <element signature="n#!!block;n#renderSingleCountyInHtmlProblem3#0" expanded="false" />
+                <element signature="n#!!block;n#showData#0" expanded="false" />
+                <element signature="n#!!block;n#hideData#0" expanded="false" />
+                <element signature="n#!!block;n#clearData#0" expanded="false" />
+                <element signature="n#!!block;n#attachEvents#0" expanded="false" />
+                <element signature="n#!!block;n#attachDropDownEvents#0" expanded="false" />
+                <element signature="n#!!block;n#attachContinentEvents#0" expanded="false" />
+                <element signature="e#8968#8986#0" expanded="false" />
+                <element signature="n#!!block;n#getAllContinents#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -40,7 +53,7 @@
         <entry file="file://$PROJECT_DIR$/EP02/07. JavaScript-for-Front-End-Exam-Preparation-II-Resources/render-data.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+              <caret line="17" column="24" lean-forward="false" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -60,7 +73,7 @@
         <entry file="file://$PROJECT_DIR$/EP02/07. JavaScript-for-Front-End-Exam-Preparation-II-Resources/events.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+              <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -207,7 +220,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -215,21 +227,11 @@
               <item name="JavaScript-for-Front-End" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaScript-for-Front-End" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="JavaScript-for-Front-End" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaScript-for-Front-End" type="462c0819:PsiDirectoryNode" />
-              <item name="EP02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaScript-for-Front-End" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaScript-for-Front-End" type="462c0819:PsiDirectoryNode" />
-              <item name="EP02" type="462c0819:PsiDirectoryNode" />
-              <item name="07. JavaScript-for-Front-End-Exam-Preparation-II-Resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -308,7 +310,8 @@
       <workItem from="1511940914049" duration="40000" />
       <workItem from="1511941366899" duration="12659000" />
       <workItem from="1512054927751" duration="15517000" />
-      <workItem from="1512074628287" duration="172000" />
+      <workItem from="1512074628287" duration="213000" />
+      <workItem from="1512283632749" duration="626000" />
     </task>
     <task id="LOCAL-00001" summary="Add new file">
       <created>1509640124220</created>
@@ -422,11 +425,18 @@
       <option name="project" value="LOCAL" />
       <updated>1511956460256</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Upgrade">
+      <created>1512074817272</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1512074817272</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69585000" />
+    <option name="totallyTimeSpent" value="70252000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -439,8 +449,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15300146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1522694" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.49702382" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280757" sideWeight="0.50595236" order="7" side_tool="true" content_ui="tabs" />
@@ -653,7 +664,7 @@
     <entry file="file://$PROJECT_DIR$/EP02/07. JavaScript-for-Front-End-Exam-Preparation-II-Resources/events.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
           <folding />
         </state>
       </provider>
@@ -661,20 +672,37 @@
     <entry file="file://$PROJECT_DIR$/EP02/07. JavaScript-for-Front-End-Exam-Preparation-II-Resources/render-data.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <caret line="17" column="24" lean-forward="false" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/EP02/07. JavaScript-for-Front-End-Exam-Preparation-II-Resources/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="79" column="30" lean-forward="false" selection-start-line="79" selection-start-column="30" selection-end-line="79" selection-end-column="30" />
+        <state relative-caret-position="187">
+          <caret line="276" column="26" lean-forward="false" selection-start-line="276" selection-start-column="26" selection-end-line="276" selection-end-column="26" />
           <folding>
             <element signature="n#!!doc" expanded="false" />
             <element signature="n#!!block;n#renderAllContinents#0" expanded="false" />
             <element signature="n#!!block;n#renderSingleContinent#0" expanded="false" />
             <element signature="n#!!block;n#renderSingleCountry#0" expanded="false" />
+            <element signature="e#1224#1242#0" expanded="false" />
+            <element signature="n#!!block;n#renderContinentsInHtml#0" expanded="false" />
+            <element signature="n#!!block;n#renderSingleCountyInHtml#0" expanded="false" />
+            <element signature="n#!!block;n#renderSingleContinentInHtml#0" expanded="false" />
+            <element signature="n#!!block;n#renderDataInHTML#0" expanded="false" />
+            <element signature="e#4025#4043#0" expanded="false" />
+            <element signature="e#4061#5628#0" expanded="false" />
+            <element signature="n#!!block;n#renderContinentsInHtmlProblem3#0" expanded="false" />
+            <element signature="n#!!block;n#renderSingleCountyInHtmlProblem3#0" expanded="false" />
+            <element signature="n#!!block;n#showData#0" expanded="false" />
+            <element signature="n#!!block;n#hideData#0" expanded="false" />
+            <element signature="n#!!block;n#clearData#0" expanded="false" />
+            <element signature="n#!!block;n#attachEvents#0" expanded="false" />
+            <element signature="n#!!block;n#attachDropDownEvents#0" expanded="false" />
+            <element signature="n#!!block;n#attachContinentEvents#0" expanded="false" />
+            <element signature="e#8968#8986#0" expanded="false" />
+            <element signature="n#!!block;n#getAllContinents#0" expanded="false" />
           </folding>
         </state>
       </provider>

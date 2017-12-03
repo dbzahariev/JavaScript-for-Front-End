@@ -101,7 +101,6 @@ function renderSingleContinentInHtml(continent) {
 function renderDataInHTML(continents) {
     renderContinentsInHtml(continents);
 }
-
 //endregion
 
 //region PROBLEM 3
